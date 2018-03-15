@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# We Need Your Skills
 
-You can use the [editor on GitHub](https://github.com/devslopes-learn/cacheout-contributor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[![cacheout-logo](https://i.imgur.com/gkoT2io.png)](https://cacheout.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are looking for a 1 major contributor to work on [Cacheout.io](https://cacheout.io) along side our team.
+Must be talented with Angular & Typescript. Please read ALL the information below. We are moving **fast** on this!
 
-### Markdown
+## Compensation:
+1. This project IS open source and you will get to be listed as a top contributor.
+2. You will get paid in Cache (our cryptocurrency - based on XEM) each month of work prior to its public launch
+3. You will get added to the website (if you want) as a contributing member
+4. First chance for long term employment (if and when an opening happens)
+5. Chance to be at ground zero when Cache and Cacheout goes live to the world!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to Apply:
+1. Build this page: [http://chain.nem.ninja/#/mosaics/0](http://chain.nem.ninja/#/mosaics/0)
+2. Transactions tab only (The other tab links can be static)
+3. Populate with fake data from a component, but using proper angular tools such as ngFor etc
+4. Clicking a transaction takes you to the 2nd screen where there is more info about that transaction.
+5. 2nd Page info is also in the component, but related to the first page (meaning dont hard code it in HTML, have the link actually work and show the appropriate 2nd page info)
+2nd page: [http://chain.nem.ninja/#/account/NBWL226SR2SUMNYZXV54HWRFJHVPLHPTWIY5QHF2/0](http://chain.nem.ninja/#/account/NBWL226SR2SUMNYZXV54HWRFJHVPLHPTWIY5QHF2/0)
+6. You MUST load this on a website somewhere so we can see it and use it
+7. You MUST put this code publicly on your Github account so we can review the code
 
-```markdown
-Syntax highlighted code block
+## We’ll pick a candidate based on:
+1. How good the work is
+2. How fast it was built
+3. How well they communicated with us
+4. Their history with Devslopes and the Devslopes community (engaged or not engaged)
+5. Video or Written Testimonial of why you want to work with us on this project
 
-# Header 1
-## Header 2
-### Header 3
+## What do I do when I'm done?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devslopes-learn/cacheout-contributor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email caleb [at] devslopes.com with:
+1. URL to final website
+2. URL to Github repository with source code
+3. URL to testimonial (Video/Written)
